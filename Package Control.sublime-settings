@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"Better JavaScript",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSScomb",
+		"Emmet",
+		"File Navigator",
+		"GitDiffHelper",
+		"GitGutter",
+		"GitStatus",
+		"Hooks",
+		"JsFormat",
+		"LESS",
+		"Markdown Extended",
+		"Package Control",
+		"Reindent on save",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - One Dark",
+		"WakaTime",
+		"WordHighlight"
+	]
+}

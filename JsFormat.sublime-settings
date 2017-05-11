@@ -1,0 +1,8 @@
+{
+  // exposed jsbeautifier options
+  "keep_array_indentation": true,
+
+  // jsformat options
+  "format_on_save": true,
+  "format_on_save_extensions": ["js", "json", "sublime-settings"]
+}
