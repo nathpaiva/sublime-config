@@ -2,3 +2,5 @@ Package\ Control.cache/**
 Color\ Highlighter/**
 SublimeLinter/**
 oscrypto-ca-bundle.crt
+.DS_Store
+**/.DS_Store
